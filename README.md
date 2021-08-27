@@ -7,6 +7,8 @@ Simple application that fetches some news / articles from network with the abili
 <li> Swift UI for Design. </li>
 <li> Combine with URLSession for network calls. </li>
 <li> Codable for data serialization. </li>
+<li> Unit Testing. </li>
+
 
 
 ## Screenshots
